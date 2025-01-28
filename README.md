@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @maahinmm
 - 👀 I’m interested in becoming a Software Engineer!
-- 🌱 I’m currently learning Computer Science with a minor in MIS.
+- 🌱 I’m currently learning Computer Science and Cybersecurity
+- 
 - 📫 How to reach me: tur44980@temple.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
